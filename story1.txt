@@ -2,4 +2,3 @@ This is a beautiful story
 The story continues with a new adventure.
 Finally, James became a successful DevOps engineer.
 James is learning how developers collaborate with Git.
-James now understands the Git staging area.
