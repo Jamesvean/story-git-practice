@@ -1,2 +1,3 @@
 This is a beautiful story
 The story continues with a new adventure.
+Finally, James became a successful DevOps engineer.
